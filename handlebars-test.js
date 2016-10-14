@@ -1,7 +1,7 @@
 //data and functions for handlebars demo
 
 //set up data object
-var theData = {headerTitle:"Shop Page", weekDay:"Wednesday"}; 
+var theData = {headerTitle:"Shop Page", weekDay:"Wednesday"};
 
 
 // Retrieve the HTML from the script tag we setup in step 1
